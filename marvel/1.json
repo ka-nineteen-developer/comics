@@ -1,96 +1,124 @@
 {
     "data": [
         {
-            "id": 23,
-            "path": "marvel/comics/Deadpool_003_(2018)/"
-        },
-        {
-            "id": 22,
-            "path": "marvel/comics/Deadpool_002_(2018)/"
-        },
-        {
-            "id": 21,
-            "path": "marvel/comics/Deadpool_001_(2018)/"
-        },
-        {
-            "id": 20,
-            "path": "marvel/comics/Deadpool_-_Assassin_004_(2018)/"
-        },
-        {
-            "id": 19,
-            "path": "marvel/comics/Deadpool_-_Assassin_003_(2018)/"
-        },
-        {
-            "id": 18,
-            "path": "marvel/comics/Deadpool_-_Assassin_002_(2018)/"
-        },
-        {
-            "id": 17,
-            "path": "marvel/comics/Deadpool_-_Assassin_001_(2018)/"
-        },
-        {
-            "id": 16,
-            "path": "marvel/comics/Ant-Man_&_the_Wasp_004_(2018)/"
-        },
-        {
             "id": 15,
-            "path": "marvel/comics/Ant-Man_&_the_Wasp_003_(2018)/"
+            "path": "marvel/comics/Deadpool_-_Assassin_005_(2018)/",
+            "title": "Deadpool – Assassin (2018)",
+            "series": "#5",
+            "discription": "The Assassins Guild has been hunting Deadpool and the people he cares about, but they messed with the wrong Merc! IN THIS ISSUE – Deadpool and his pals take the fight to the guild and hit ’em where they live…LITERALLY. I mean it! Deadpool and co. ATTACK THE ASSASSINS GUILD HEADQUARTERS…AND NOT EVERYBODY MAKES IT OUT ALIVE!",
+            "pages": 21
         },
         {
             "id": 14,
-            "path": "marvel/comics/Ant-Man_&_the_Wasp_002_(2018)/"
+            "path": "marvel/comics/Deadpool_-_Assassin_004_(2018)/",
+            "title": "Deadpool – Assassin (2018)",
+            "series": "#4",
+            "discription": "Deadpool isn’t usually known for his attention to detail and promptness, but he’s CLEANING UP in the mercenary-for-hire biz. And since the Regeneratin’ Degenerate’s proven elusive of the Assassins Guild’s efforts to stop him, in this issue they’ll hit him where it hurts…His groin. Oh and also his friends.",
+            "pages": 23
         },
         {
             "id": 13,
-            "path": "marvel/comics/Ant-Man_&_the_Wasp_001_(2018)/"
+            "path": "marvel/comics/Deadpool_-_Assassin_003_(2018)/",
+            "title": "Deadpool – Assassin (2018)",
+            "series": "#3",
+            "discription": "Deadpool’s adventure in New Orleans continues, and the locals want to test their might against the Merc with a Mouth! But that ain’t all – Deadpool also draws the ire of the deadliest group of killers with the word “guild” in their name – THE ASSASSINS GUILD! And boy, are there are a LOT of them!",
+            "pages": 24
         },
         {
             "id": 12,
-            "path": "marvel/comics/Thor_003_(2018)_(Digital)_(Zone-Empire)/"
+            "path": "marvel/comics/Deadpool_-_Assassin_002_(2018)/",
+            "title": "Deadpool – Assassin (2018)",
+            "series": "#2",
+            "discription": "Deadpool’s quest to beat the rest continues, and this time he’s squaring off against the Assassins Guild in the Big Easy! The Merc with the Mouth’s healing factor will get put to the ultimate test when he’s pitted against the knife-wielding speedster called HARVESTER! But even if he’s lucky enough to survive that encounter, Deadpool’s actions in this very comics mag will align more than one ne’er-do-well against him…and Harvester’ll look like a walk in the park!",
+            "pages": 24
         },
         {
             "id": 11,
-            "path": "marvel/comics/Thor_002_(2018)_(Digital)_(Zone-Empire)/"
+            "path": "marvel/comics/Deadpool_-_Assassin_001_(2018)/",
+            "title": "Deadpool – Assassin (2018)",
+            "series": "#1",
+            "discription": "Deadpool’s quest to beat the rest continues, and this time he’s squaring off against the Assassins Guild in the Big Easy! The Merc with the Mouth’s healing factor will get put to the ultimate test when he’s pitted against the knife-wielding speedster called HARVESTER! But even if he’s lucky enough to survive that encounter, Deadpool’s actions in this very comics mag will align more than one ne’er-do-well against him…and Harvester’ll look like a walk in the park!",
+            "pages": 32
         },
         {
             "id": 10,
-            "path": "marvel/comics/Thor_001_(2018)_(digital)_(Glorith-HD)/"
+            "path": "marvel/comics/Ant-Man_&_the_Wasp_004_(2018)/",
+            "title": "Ant-Man And The Wasp (2018)",
+            "series": "#4",
+            "discription": "Every time Ant-Man and Wasp shrink in the Microverse, they enter a reality with new physics, new beings and new danger! How much smaller can they get before there’s no way back? Marvel’s weirdest science trip takes things up, er, down a notch!",
+            "pages": 22
         },
         {
             "id": 9,
-            "path": "marvel/comics/Ant-Man_&_Wasp_03_(of_03)_(2011)/"
+            "path": "marvel/comics/Ant-Man_&_the_Wasp_003_(2018)/",
+            "title": "Ant-Man And The Wasp (2018)",
+            "series": "#3",
+            "discription": "The Wasp and Ant-Man are trapped in the Microverse, which sucks for them. Know who it’s even worse for? The even more tiny people our heroes can’t help but threaten by their very existence!",
+            "pages": 22
         },
         {
             "id": 8,
-            "path": "marvel/comics/Ant-Man_&_Wasp_02_(of_03)_(2011)/"
+            "path": "marvel/comics/Ant-Man_&_the_Wasp_002_(2018)/",
+            "title": "Ant-Man And The Wasp (2018)",
+            "series": "#2",
+            "discription": "A NEW SERIES FROM MARK WAID & JAVIER GARRON! Wasp was just trying to help Ant-Man get home to Earth to see his daughter…but a little problem got in the way. Very little. Subatomic, in fact, as Scott Lang was lost in the vast spaces between atoms! Now, Nadia is his only hope of rescue…if only he would listen long enough for her to save them! From master storyteller Mark Waid (CAPTAIN AMERICA, CHAMPIONS) and Marvel Young Gun artist Javier Garrón (SECRET WARRIORS, STAR-LORD) comes a story of a big journey getting smaller all the time!",
+            "pages": 22
         },
         {
             "id": 7,
-            "path": "marvel/comics/Ant-Man_&_Wasp_01_(of_03)_(2011)/"
+            "path": "marvel/comics/Ant-Man_&_the_Wasp_001_(2018)/",
+            "title": "Ant-Man And The Wasp (2018)",
+            "series": "#1",
+            "discription": "A NEW SERIES FROM MARK WAID & JAVIER GARRON! Wasp was just trying to help Ant-Man get home to Earth to see his daughter…but a little problem got in the way. Very little. Subatomic, in fact, as Scott Lang was lost in the vast spaces between atoms! Now, Nadia is his only hope of rescue…if only he would listen long enough for her to save them! From master storyteller Mark Waid (CAPTAIN AMERICA, CHAMPIONS) and Marvel Young Gun artist Javier Garrón (SECRET WARRIORS, STAR-LORD) comes a story of a big journey getting smaller all the time!",
+            "pages": 21
         },
         {
             "id": 6,
-            "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
+            "path": "marvel/comics/Thor_003_(2018)_(Digital)_(Zone-Empire)/",
+            "title": "Thor (2018)",
+            "series": "#3",
+            "discription": "War rages across the land of the dead, and not even the reunion of Thor with his brother Balder can stop it! Perhaps peace might come from the wedding of the century… in Hel! With Hela, the goddess of death, as the bride, which Odinson brother is going to be the lucky groom? And what special surprise guest is looking to put a deadly stop to the nuptials?",
+            "pages": 22
         },
         {
             "id": 5,
-            "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
+            "path": "marvel/comics/Thor_002_(2018)_(Digital)_(Zone-Empire)/",
+            "title": "Thor (2018)",
+            "series": "#2",
+            "discription": "REUNION FROM HEL! The sons of Odin ride again! In the land of the dead, Thor is reunited with his long-lost brother, Balder, the King of Hel, just in time to face the Fire Goblin armies of the Queen of Cinders, as the War of the Realms continues to burn its way across all creation. Plus Loki! Thori the Hel-hound! Skurge with a really big gun! Monster trucks! And more!",
+            "pages": 22
         },
         {
             "id": 4,
-            "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
+            "path": "marvel/comics/Thor_001_(2018)_(digital)_(Glorith-HD)/",
+            "title": "Thor (2018)",
+            "series": "#1",
+            "discription": "Thor Odinson has regained his mantle – and with it, a wild new world of trouble on his mighty hands! The artifacts of Asgard have been scattered across the earth, and to reclaim them, Thor will have to face some ugly truths. Like the production cost of hundreds of new hammers! And the Thunder God is going to need every last one of them if he’s going to stop the unstoppable Juggernaut. Jason Aaron takes the Prince of Asgard in a whole new direction with YOUNG GUN artist Mike Del Mundo joining him at the helm! And don’t miss the latest chapter of the King Thor saga with acclaimed BLACK BOLT artist Christian Ward, as the Thor of the far future encounters an old friend who’s undergone some startling changes.",
+            "pages": 42
         },
         {
             "id": 3,
-            "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
+            "path": "marvel/comics/Ant-Man_&_Wasp_03_(of_03)_(2011)/",
+            "title": "Ant-Man & Wasp(2011)",
+            "series": "#3",
+            "discription": "Two of Marvel’s smallest heroes must join forces and get over one BIG elephant-in-the-room! Eric O’Grady once STOLE the Ant-Man suit from Hank Pym. But now, Eric is the only one who knows about a secret AIM plot to steal Pym’s greatest invention! Can the two men get along long enough to save the soul of the former GOLIATH, Bill Foster? Tim Seeley, creator of “Hack/Slash” brings us the big story of the two smallest Avengers!",
+            "pages": 24
         },
         {
             "id": 2,
-            "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
+            "path": "marvel/comics/Ant-Man_&_Wasp_02_(of_03)_(2011)/",
+            "title": "Ant-Man & Wasp(2011)",
+            "series": "#2",
+            "discription": "Two of Marvel’s smallest heroes must join forces and get over one BIG elephant-in-the-room! Eric O’Grady once STOLE the Ant-Man suit from Hank Pym. But now, Eric is the only one who knows about a secret AIM plot to steal Pym’s greatest invention! Can the two men get along long enough to save the soul of the former GOLIATH, Bill Foster? Tim Seeley, creator of “Hack/Slash” brings us the big story of the two smallest Avengers!",
+            "pages": 23
         },
         {
             "id": 1,
-            "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
+            "path": "marvel/comics/Ant-Man_&_Wasp_01_(of_03)_(2011)/",
+            "title": "Ant-Man & Wasp(2011)",
+            "series": "#1",
+            "discription": "Two of Marvel’s smallest heroes must join forces and get over one BIG elephant-in-the-room! Eric O’Grady once STOLE the Ant-Man suit from Hank Pym. But now, Eric is the only one who knows about a secret AIM plot to steal Pym’s greatest invention! Can the two men get along long enough to save the soul of the former GOLIATH, Bill Foster? Tim Seeley, creator of “Hack/Slash” brings us the big story of the two smallest Avengers!",
+            "pages": 24
         }
     ],
     "Status": "Success"
