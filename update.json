@@ -1,6 +1,6 @@
 {
-    "forceUpgrade": false,
-    "latestVersion": "2",
+    "forceUpgrade": true,
+    "latestVersion": "5",
     "recommendUpgrade": false,
 	"add": {
 		"showAd": true,
