@@ -1,6 +1,30 @@
 {
     "data": [
         {
+            "id": 18,
+            "path": "marvel/comics/Black_Panther_003_(2018)_(Digital)_(Zone-Empire)/",
+            "title": "Black Panther (2018)",
+            "series": "#3",
+            "discription": "The rebels make their move! On the verge of liberating the Nameless, T’Challa, M’Baku and Nakia hunt for mysterious artifact that promises to turn the tide. What is the M’Kraan Shard? And will T’Challa find its acquisition worth the cost?",
+            "pages": 23
+        },
+        {
+            "id": 17,
+            "path": "marvel/comics/Black_Panther_002_(2018)_(Digital)_(Zone-Empire)/",
+            "title": "Black Panther (2018)",
+            "series": "#2",
+            "discription": "MANY THOUSANDS GONE PART 2 FROM TA-NEHISI COATES & DANIEL ACUNA! T’Challa is a stranger in a strange land. With no memory of his past, there is only the suffering of the present – in the Vibranium mines of an unfamiliar empire. But all hope is not lost. A rebellion is growing–and they have a plan. But who will lead these lost citizens? Where is the Black Panther?",
+            "pages": 21
+        },
+        {
+            "id": 16,
+            "path": "marvel/comics/Black_Panther_001_(2018)_(Digital)_(Zone-Empire)/",
+            "title": "Black Panther (2018)",
+            "series": "#1",
+            "discription": "A bold new direction for the Black Panther! For years, T’Challa has fought off invaders from his homeland, protecting Wakanda from everything from meddling governments to long-lost gods. Now, he will discover that Wakanda is much bigger than he ever dreamed…Across the vast Multiverse lies an empire founded in T’Challa’s name. Readers caught a glimpse of it in MARVEL LEGACY #1. Now find out the truth behind the Intergalactic Empire of Wakanda! Ta-Nehisi Coates welcomes aboard fan-favorite artist Daniel Acuña for a Black Panther story unlike any other!",
+            "pages": 33
+        },
+        {
             "id": 15,
             "path": "marvel/comics/Deadpool_-_Assassin_005_(2018)/",
             "title": "Deadpool – Assassin (2018)",
