@@ -1,6 +1,118 @@
 {
     "data": [
         {
+            "id": 32,
+            "path": "marvel/comics/Invincible_Iron_Man_014_(2016)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#14",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 21
+        },
+        {
+            "id": 31,
+            "path": "marvel/comics/Invincible_Iron_Man_013_(2016)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#13",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 22
+        },
+        {
+            "id": 30,
+            "path": "marvel/comics/Invincible_Iron_Man_012_(2016)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#12",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 19
+        },
+        {
+            "id": 29,
+            "path": "marvel/comics/Invincible_Iron_Man_011_(2016)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#11",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 19
+        },
+        {
+            "id": 28,
+            "path": "marvel/comics/Invincible_Iron_Man_010_(2016)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#10",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 19
+        },
+        {
+            "id": 27,
+            "path": "marvel/comics/Invincible_Iron_Man_009_(2016)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#9",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 19
+        },
+        {
+            "id": 26,
+            "path": "marvel/comics/Invincible_Iron_Man_008_(2016)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#8",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 19
+        },
+        {
+            "id": 25,
+            "path": "marvel/comics/Invincible_Iron_Man_007_(2016)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#7",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 20
+        },
+        {
+            "id": 24,
+            "path": "marvel/comics/Invincible_Iron_Man_006_(2016)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#6",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 19
+        },
+        {
+            "id": 23,
+            "path": "marvel/comics/Invincible_Iron_Man_005_(2016)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#5",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 20
+        },
+        {
+            "id": 22,
+            "path": "marvel/comics/Invincible_Iron_Man_004_(2016)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#4",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 19
+        },
+        {
+            "id": 21,
+            "path": "marvel/comics/Invincible_Iron_Man_003_(2015)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#3",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 21
+        },
+        {
+            "id": 20,
+            "path": "marvel/comics/Invincible_Iron_Man_002_(2015)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#2",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 18
+        },
+        {
+            "id": 19,
+            "path": "marvel/comics/Invincible_Iron_Man_001_(2015)/",
+            "title": "Invincible Iron Man Vol. 2",
+            "series": "#1",
+            "discription": "Preceded by the Superior Iron Man series. After the events of Secret Wars, Tony Stark returns to the true hero he was, as the Invincible Iron Man! The series is famous for introducing Riri Williams, but only lasted for 14 issues before being replaced by Invincible Iron Man Vol. 3, in which Riri Williams took over the Iron Man-role as Ironheart.",
+            "pages": 21
+        },
+        {
             "id": 18,
             "path": "marvel/comics/Black_Panther_003_(2018)_(Digital)_(Zone-Empire)/",
             "title": "Black Panther (2018)",
