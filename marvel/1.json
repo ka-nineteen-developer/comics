@@ -1,6 +1,14 @@
 {
     "data": [
         {
+            "id": 33,
+            "path": "marvel/comics/Sensation_Comics_Featuring_Wonder_Woman_001_(2014)/",
+            "title": "Wonder Woman",
+            "series": "#1",
+            "discription": "Diana Prince: Amazon warrior, ambassador to Man’s world, or champion of women in need? All of the above! This digital-first anthology series will bring some of comics’ greatest talents to Themyscira, and give them leave to explore Diana, her world – and ours! Gail Simone and Ethan Van Sciver kick things off when Oracle calls for help after the entire Bat-Family gets sidelined. But when Wonder Woman steps into the breach, Gotham City’s criminals get the surprise of their lives! Then, Amanda Deibert and Cat Staggs take Diana to school, where she meets her biggest fan!",
+            "pages": 25
+        },
+        {
             "id": 32,
             "path": "marvel/comics/Invincible_Iron_Man_014_(2016)/",
             "title": "Invincible Iron Man Vol. 2",
