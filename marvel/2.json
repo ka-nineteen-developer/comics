@@ -1,6 +1,54 @@
 {
     "data":[
         {
+            "id": 43,
+            "path": "marvel/comics/X-Men_Red_V05_-_The_Hate_Machine_(2018)/",
+            "title": "X-Men Red Vol. 1 – The Hate Machine(2018)",
+            "series": "#6",
+            "discription": "TJean Grey is back — and recruiting her own team of X-Men! Reborn into a world very different than she remembers, Jean gathers allies including Nightcrawler, Namor and the All-New Wolverine to combat a growing anti-mutant movement that threatens to tear down Xavier’s dream! Jean has a vision and a plan — but first her Red squad must infiltrate a top-secret compound to save a mysterious new mutant. Avoiding guards with high-tech weapons, protestors with burning hate and gigantic mutant-killing Sentinel robots is all in a day’s work for the X-Men! But Jean’s newest recruit will be the key to the whole team’s survival as battles break out across India! Gambit finds himself caught up in the intensifying global frenzy of mutant hate as well — but could one of Jean’s oldest friends become a deadly foe?",
+            "pages": 20
+        },
+        {
+            "id": 42,
+            "path": "marvel/comics/X-Men_Red_V04_-_The_Hate_Machine_(2018)/",
+            "title": "X-Men Red Vol. 1 – The Hate Machine(2018)",
+            "series": "#5",
+            "discription": "TJean Grey is back — and recruiting her own team of X-Men! Reborn into a world very different than she remembers, Jean gathers allies including Nightcrawler, Namor and the All-New Wolverine to combat a growing anti-mutant movement that threatens to tear down Xavier’s dream! Jean has a vision and a plan — but first her Red squad must infiltrate a top-secret compound to save a mysterious new mutant. Avoiding guards with high-tech weapons, protestors with burning hate and gigantic mutant-killing Sentinel robots is all in a day’s work for the X-Men! But Jean’s newest recruit will be the key to the whole team’s survival as battles break out across India! Gambit finds himself caught up in the intensifying global frenzy of mutant hate as well — but could one of Jean’s oldest friends become a deadly foe?",
+            "pages": 21
+        },
+        {
+            "id": 41,
+            "path": "marvel/comics/X-Men_Red_V03_-_The_Hate_Machine_(2018)/",
+            "title": "X-Men Red Vol. 1 – The Hate Machine(2018)",
+            "series": "#4",
+            "discription": "TJean Grey is back — and recruiting her own team of X-Men! Reborn into a world very different than she remembers, Jean gathers allies including Nightcrawler, Namor and the All-New Wolverine to combat a growing anti-mutant movement that threatens to tear down Xavier’s dream! Jean has a vision and a plan — but first her Red squad must infiltrate a top-secret compound to save a mysterious new mutant. Avoiding guards with high-tech weapons, protestors with burning hate and gigantic mutant-killing Sentinel robots is all in a day’s work for the X-Men! But Jean’s newest recruit will be the key to the whole team’s survival as battles break out across India! Gambit finds himself caught up in the intensifying global frenzy of mutant hate as well — but could one of Jean’s oldest friends become a deadly foe?",
+            "pages": 20
+        },
+        {
+            "id": 40,
+            "path": "marvel/comics/X-Men_Red_V02_-_The_Hate_Machine_(2018)/",
+            "title": "X-Men Red Vol. 1 – The Hate Machine(2018)",
+            "series": "#3",
+            "discription": "TJean Grey is back — and recruiting her own team of X-Men! Reborn into a world very different than she remembers, Jean gathers allies including Nightcrawler, Namor and the All-New Wolverine to combat a growing anti-mutant movement that threatens to tear down Xavier’s dream! Jean has a vision and a plan — but first her Red squad must infiltrate a top-secret compound to save a mysterious new mutant. Avoiding guards with high-tech weapons, protestors with burning hate and gigantic mutant-killing Sentinel robots is all in a day’s work for the X-Men! But Jean’s newest recruit will be the key to the whole team’s survival as battles break out across India! Gambit finds himself caught up in the intensifying global frenzy of mutant hate as well — but could one of Jean’s oldest friends become a deadly foe?",
+            "pages": 21
+        },
+        {
+            "id": 39,
+            "path": "marvel/comics/X-Men_Red_V01_-_The_Hate_Machine_(2018)/",
+            "title": "X-Men Red Vol. 1 – The Hate Machine(2018)",
+            "series": "#2",
+            "discription": "TJean Grey is back — and recruiting her own team of X-Men! Reborn into a world very different than she remembers, Jean gathers allies including Nightcrawler, Namor and the All-New Wolverine to combat a growing anti-mutant movement that threatens to tear down Xavier’s dream! Jean has a vision and a plan — but first her Red squad must infiltrate a top-secret compound to save a mysterious new mutant. Avoiding guards with high-tech weapons, protestors with burning hate and gigantic mutant-killing Sentinel robots is all in a day’s work for the X-Men! But Jean’s newest recruit will be the key to the whole team’s survival as battles break out across India! Gambit finds himself caught up in the intensifying global frenzy of mutant hate as well — but could one of Jean’s oldest friends become a deadly foe?",
+            "pages": 31
+        },
+        {
+            "id": 38,
+            "path": "marvel/comics/X-Men_Red_V00_-_The_Hate_Machine_(2018)/",
+            "title": "X-Men Red Vol. 1 – The Hate Machine(2018)",
+            "series": "#1",
+            "discription": "TJean Grey is back — and recruiting her own team of X-Men! Reborn into a world very different than she remembers, Jean gathers allies including Nightcrawler, Namor and the All-New Wolverine to combat a growing anti-mutant movement that threatens to tear down Xavier’s dream! Jean has a vision and a plan — but first her Red squad must infiltrate a top-secret compound to save a mysterious new mutant. Avoiding guards with high-tech weapons, protestors with burning hate and gigantic mutant-killing Sentinel robots is all in a day’s work for the X-Men! But Jean’s newest recruit will be the key to the whole team’s survival as battles break out across India! Gambit finds himself caught up in the intensifying global frenzy of mutant hate as well — but could one of Jean’s oldest friends become a deadly foe?",
+            "pages": 29
+        },
+        {
             "id": 37,
             "path": "marvel/comics/Spider-Man_Breakout_005_(2005)/",
             "title": "Spider-Man – Breakout",
