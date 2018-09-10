@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Series>X-Men - The Early Years</Series>
+  <Number>10</Number>
+  <Year>1995</Year>
+  <PageCount>22</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1169680" ImageWidth="1680" ImageHeight="2587" Type="FrontCover" />
+    <Page Image="1" ImageSize="953334" ImageWidth="1680" ImageHeight="2561" />
+    <Page Image="2" ImageSize="972071" ImageWidth="1680" ImageHeight="2553" />
+    <Page Image="3" ImageSize="899210" ImageWidth="1680" ImageHeight="2576" />
+    <Page Image="4" ImageSize="992528" ImageWidth="1680" ImageHeight="2554" />
+    <Page Image="5" ImageSize="934665" ImageWidth="1680" ImageHeight="2553" />
+    <Page Image="6" ImageSize="916073" ImageWidth="1680" ImageHeight="2575" />
+    <Page Image="7" ImageSize="971552" ImageWidth="1680" ImageHeight="2581" />
+    <Page Image="8" ImageSize="938702" ImageWidth="1680" ImageHeight="2608" />
+    <Page Image="9" ImageSize="984686" ImageWidth="1680" ImageHeight="2519" />
+    <Page Image="10" ImageSize="1040532" ImageWidth="1680" ImageHeight="2562" />
+    <Page Image="11" ImageSize="954092" ImageWidth="1680" ImageHeight="2573" />
+    <Page Image="12" ImageSize="966697" ImageWidth="1680" ImageHeight="2565" />
+    <Page Image="13" ImageSize="991427" ImageWidth="1680" ImageHeight="2546" />
+    <Page Image="14" ImageSize="1007717" ImageWidth="1680" ImageHeight="2561" />
+    <Page Image="15" ImageSize="939534" ImageWidth="1680" ImageHeight="2572" />
+    <Page Image="16" ImageSize="857616" ImageWidth="1680" ImageHeight="2499" />
+    <Page Image="17" ImageSize="1002116" ImageWidth="1680" ImageHeight="2556" />
+    <Page Image="18" ImageSize="985280" ImageWidth="1680" ImageHeight="2629" />
+    <Page Image="19" ImageSize="1008899" ImageWidth="1680" ImageHeight="2594" />
+    <Page Image="20" ImageSize="953109" ImageWidth="1680" ImageHeight="2557" />
+    <Page Image="21" ImageSize="891752" ImageWidth="1680" ImageHeight="2575" />
+  </Pages>
+</ComicInfo>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Series>X-Men - The Early Years</Series>
+  <Number>6</Number>
+  <Year>1994</Year>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1198025" ImageWidth="1600" ImageHeight="2476" Type="FrontCover" />
+    <Page Image="1" ImageSize="954878" ImageWidth="1600" ImageHeight="2515" />
+    <Page Image="2" ImageSize="899557" ImageWidth="1600" ImageHeight="2492" />
+    <Page Image="3" ImageSize="917161" ImageWidth="1600" ImageHeight="2478" />
+    <Page Image="4" ImageSize="961037" ImageWidth="1600" ImageHeight="2513" />
+    <Page Image="5" ImageSize="977583" ImageWidth="1600" ImageHeight="2537" />
+    <Page Image="6" ImageSize="989330" ImageWidth="1600" ImageHeight="2517" />
+    <Page Image="7" ImageSize="949661" ImageWidth="1600" ImageHeight="2519" />
+    <Page Image="8" ImageSize="929506" ImageWidth="1600" ImageHeight="2475" />
+    <Page Image="9" ImageSize="876749" ImageWidth="1600" ImageHeight="2485" />
+    <Page Image="10" ImageSize="835216" ImageWidth="1600" ImageHeight="2524" />
+    <Page Image="11" ImageSize="919898" ImageWidth="1600" ImageHeight="2525" />
+    <Page Image="12" ImageSize="834977" ImageWidth="1600" ImageHeight="2495" />
+    <Page Image="13" ImageSize="810459" ImageWidth="1600" ImageHeight="2460" />
+    <Page Image="14" ImageSize="911645" ImageWidth="1600" ImageHeight="2487" />
+    <Page Image="15" ImageSize="837301" ImageWidth="1600" ImageHeight="2538" />
+    <Page Image="16" ImageSize="858355" ImageWidth="1600" ImageHeight="2530" />
+    <Page Image="17" ImageSize="903952" ImageWidth="1600" ImageHeight="2528" />
+    <Page Image="18" ImageSize="860179" ImageWidth="1600" ImageHeight="2523" />
+    <Page Image="19" ImageSize="892232" ImageWidth="1600" ImageHeight="2552" />
+    <Page Image="20" ImageSize="873003" ImageWidth="1600" ImageHeight="2523" />
+    <Page Image="21" ImageSize="819808" ImageWidth="1600" ImageHeight="2475" />
+    <Page Image="22" ImageSize="927321" ImageWidth="1600" ImageHeight="2593" />
+    <Page Image="23" ImageSize="725053" ImageWidth="1600" ImageHeight="2487" />
+  </Pages>
+</ComicInfo>
