@@ -3,8 +3,8 @@
     "latestVersion": "5",
     "recommendUpgrade": false,
 	"add": {
-		"showAd": false,
-		"Interstitial_Ads": "ca-app-pub-3940256099942544/1033173712"
+		"showAd": true,
+		"Interstitial_Ads": "ca-app-pub-2856364103582624/3294056990"
 	},
     "Status": "Success"
 }
