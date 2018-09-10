@@ -1,196 +1,125 @@
 {
-    "data":[{
-        "id": 100,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 99,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 98,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 97,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 96,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 95,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 94,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 93,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 92,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 91,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 90,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 89,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 88,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 87,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 86,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 85,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 84,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 83,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 82,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 81,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 80,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 79,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 78,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 77,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 76,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 75,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 74,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 73,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 72,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 71,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 70,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 69,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 68,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 67,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 66,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 65,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 64,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 63,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 62,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 61,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 60,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 59,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },{
-        "id": 58,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    },
-    {
-        "id": 57,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 56,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_6/"
-    },
-    {
-        "id": 55,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_5/"
-    },
-    {
-        "id": 54,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_4/"
-    },
-    {
-        "id": 53,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_3/"
-    },
-    {
-        "id": 52,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_2/"
-    },
-    {
-        "id": 51,
-        "path": "marvel/comics/Black_Panther_-_World_of_Wakanda_(2017)_(Digital)_(Asgard-Empire)_1/"
-    }],
+    "data":[
+        {
+            "id": 48,
+            "path": "marvel/comics/Venomized_05_(2018)_(Digital)_(Asgard-Empire)/",
+            "title": "Venomized (2018)",
+            "series": "#5",
+            "discription": "The story that began in VENOMVERSE reaches its epic conclusion! The Poisons, a species that hungers for super-powered symbiotes and their hosts, have picked their next target: the Marvel Universe itself! Their first objective? Put every superhuman in a Klyntar symbiote — and then consume them! And with Venom and the X-Men still missing after the events of “Poison-X,” Earth stands defenseless! By the time they make it back home, Venom and the X-Men find dozens of heroes and villains unwillingly bonded with symbiotes. And when the Poisons consume one of their strongest allies, the champions of Earth must rally — and stand against one of their own! But what do the Poisons have planned for Cletus Kasady, A.K.A. Carnage? And can anything in the galaxy stand in the way of…Poison Thanos?!",
+            "pages": 20
+        },
+        {
+            "id": 47,
+            "path": "marvel/comics/Venomized_04_(2018)_(Digital)_(Asgard-Empire)/",
+            "title": "Venomized (2018)",
+            "series": "#4",
+            "discription": "The story that began in VENOMVERSE reaches its epic conclusion! The Poisons, a species that hungers for super-powered symbiotes and their hosts, have picked their next target: the Marvel Universe itself! Their first objective? Put every superhuman in a Klyntar symbiote — and then consume them! And with Venom and the X-Men still missing after the events of “Poison-X,” Earth stands defenseless! By the time they make it back home, Venom and the X-Men find dozens of heroes and villains unwillingly bonded with symbiotes. And when the Poisons consume one of their strongest allies, the champions of Earth must rally — and stand against one of their own! But what do the Poisons have planned for Cletus Kasady, A.K.A. Carnage? And can anything in the galaxy stand in the way of…Poison Thanos?!",
+            "pages": 20
+        },
+        {
+            "id": 46,
+            "path": "marvel/comics/Venomized_03_(2018)_(Digital)_(Asgard-Empire)/",
+            "title": "Venomized (2018)",
+            "series": "#3",
+            "discription": "The story that began in VENOMVERSE reaches its epic conclusion! The Poisons, a species that hungers for super-powered symbiotes and their hosts, have picked their next target: the Marvel Universe itself! Their first objective? Put every superhuman in a Klyntar symbiote — and then consume them! And with Venom and the X-Men still missing after the events of “Poison-X,” Earth stands defenseless! By the time they make it back home, Venom and the X-Men find dozens of heroes and villains unwillingly bonded with symbiotes. And when the Poisons consume one of their strongest allies, the champions of Earth must rally — and stand against one of their own! But what do the Poisons have planned for Cletus Kasady, A.K.A. Carnage? And can anything in the galaxy stand in the way of…Poison Thanos?!",
+            "pages": 22
+        },
+        {
+            "id": 45,
+            "path": "marvel/comics/Venomized_02_(2018)_(Digital)_(Asgard-Empire)/",
+            "title": "Venomized (2018)",
+            "series": "#2",
+            "discription": "The story that began in VENOMVERSE reaches its epic conclusion! The Poisons, a species that hungers for super-powered symbiotes and their hosts, have picked their next target: the Marvel Universe itself! Their first objective? Put every superhuman in a Klyntar symbiote — and then consume them! And with Venom and the X-Men still missing after the events of “Poison-X,” Earth stands defenseless! By the time they make it back home, Venom and the X-Men find dozens of heroes and villains unwillingly bonded with symbiotes. And when the Poisons consume one of their strongest allies, the champions of Earth must rally — and stand against one of their own! But what do the Poisons have planned for Cletus Kasady, A.K.A. Carnage? And can anything in the galaxy stand in the way of…Poison Thanos?!",
+            "pages": 21
+        },
+        {
+            "id": 44,
+            "path": "marvel/comics/Venomized_01_(2018)_(Digital)_(Asgard-Empire)/",
+            "title": "Venomized (2018)",
+            "series": "#1",
+            "discription": "The story that began in VENOMVERSE reaches its epic conclusion! The Poisons, a species that hungers for super-powered symbiotes and their hosts, have picked their next target: the Marvel Universe itself! Their first objective? Put every superhuman in a Klyntar symbiote — and then consume them! And with Venom and the X-Men still missing after the events of “Poison-X,” Earth stands defenseless! By the time they make it back home, Venom and the X-Men find dozens of heroes and villains unwillingly bonded with symbiotes. And when the Poisons consume one of their strongest allies, the champions of Earth must rally — and stand against one of their own! But what do the Poisons have planned for Cletus Kasady, A.K.A. Carnage? And can anything in the galaxy stand in the way of…Poison Thanos?!",
+            "pages": 31
+        },
+        {
+            "id": 43,
+            "path": "marvel/comics/X-Men_Red_V05_-_The_Hate_Machine_(2018)/",
+            "title": "X-Men Red Vol. 1 – The Hate Machine(2018)",
+            "series": "#6",
+            "discription": "TJean Grey is back — and recruiting her own team of X-Men! Reborn into a world very different than she remembers, Jean gathers allies including Nightcrawler, Namor and the All-New Wolverine to combat a growing anti-mutant movement that threatens to tear down Xavier’s dream! Jean has a vision and a plan — but first her Red squad must infiltrate a top-secret compound to save a mysterious new mutant. Avoiding guards with high-tech weapons, protestors with burning hate and gigantic mutant-killing Sentinel robots is all in a day’s work for the X-Men! But Jean’s newest recruit will be the key to the whole team’s survival as battles break out across India! Gambit finds himself caught up in the intensifying global frenzy of mutant hate as well — but could one of Jean’s oldest friends become a deadly foe?",
+            "pages": 20
+        },
+        {
+            "id": 42,
+            "path": "marvel/comics/X-Men_Red_V04_-_The_Hate_Machine_(2018)/",
+            "title": "X-Men Red Vol. 1 – The Hate Machine(2018)",
+            "series": "#5",
+            "discription": "TJean Grey is back — and recruiting her own team of X-Men! Reborn into a world very different than she remembers, Jean gathers allies including Nightcrawler, Namor and the All-New Wolverine to combat a growing anti-mutant movement that threatens to tear down Xavier’s dream! Jean has a vision and a plan — but first her Red squad must infiltrate a top-secret compound to save a mysterious new mutant. Avoiding guards with high-tech weapons, protestors with burning hate and gigantic mutant-killing Sentinel robots is all in a day’s work for the X-Men! But Jean’s newest recruit will be the key to the whole team’s survival as battles break out across India! Gambit finds himself caught up in the intensifying global frenzy of mutant hate as well — but could one of Jean’s oldest friends become a deadly foe?",
+            "pages": 21
+        },
+        {
+            "id": 41,
+            "path": "marvel/comics/X-Men_Red_V03_-_The_Hate_Machine_(2018)/",
+            "title": "X-Men Red Vol. 1 – The Hate Machine(2018)",
+            "series": "#4",
+            "discription": "TJean Grey is back — and recruiting her own team of X-Men! Reborn into a world very different than she remembers, Jean gathers allies including Nightcrawler, Namor and the All-New Wolverine to combat a growing anti-mutant movement that threatens to tear down Xavier’s dream! Jean has a vision and a plan — but first her Red squad must infiltrate a top-secret compound to save a mysterious new mutant. Avoiding guards with high-tech weapons, protestors with burning hate and gigantic mutant-killing Sentinel robots is all in a day’s work for the X-Men! But Jean’s newest recruit will be the key to the whole team’s survival as battles break out across India! Gambit finds himself caught up in the intensifying global frenzy of mutant hate as well — but could one of Jean’s oldest friends become a deadly foe?",
+            "pages": 20
+        },
+        {
+            "id": 40,
+            "path": "marvel/comics/X-Men_Red_V02_-_The_Hate_Machine_(2018)/",
+            "title": "X-Men Red Vol. 1 – The Hate Machine(2018)",
+            "series": "#3",
+            "discription": "TJean Grey is back — and recruiting her own team of X-Men! Reborn into a world very different than she remembers, Jean gathers allies including Nightcrawler, Namor and the All-New Wolverine to combat a growing anti-mutant movement that threatens to tear down Xavier’s dream! Jean has a vision and a plan — but first her Red squad must infiltrate a top-secret compound to save a mysterious new mutant. Avoiding guards with high-tech weapons, protestors with burning hate and gigantic mutant-killing Sentinel robots is all in a day’s work for the X-Men! But Jean’s newest recruit will be the key to the whole team’s survival as battles break out across India! Gambit finds himself caught up in the intensifying global frenzy of mutant hate as well — but could one of Jean’s oldest friends become a deadly foe?",
+            "pages": 21
+        },
+        {
+            "id": 39,
+            "path": "marvel/comics/X-Men_Red_V01_-_The_Hate_Machine_(2018)/",
+            "title": "X-Men Red Vol. 1 – The Hate Machine(2018)",
+            "series": "#2",
+            "discription": "TJean Grey is back — and recruiting her own team of X-Men! Reborn into a world very different than she remembers, Jean gathers allies including Nightcrawler, Namor and the All-New Wolverine to combat a growing anti-mutant movement that threatens to tear down Xavier’s dream! Jean has a vision and a plan — but first her Red squad must infiltrate a top-secret compound to save a mysterious new mutant. Avoiding guards with high-tech weapons, protestors with burning hate and gigantic mutant-killing Sentinel robots is all in a day’s work for the X-Men! But Jean’s newest recruit will be the key to the whole team’s survival as battles break out across India! Gambit finds himself caught up in the intensifying global frenzy of mutant hate as well — but could one of Jean’s oldest friends become a deadly foe?",
+            "pages": 31
+        },
+        {
+            "id": 38,
+            "path": "marvel/comics/X-Men_Red_V00_-_The_Hate_Machine_(2018)/",
+            "title": "X-Men Red Vol. 1 – The Hate Machine(2018)",
+            "series": "#1",
+            "discription": "TJean Grey is back — and recruiting her own team of X-Men! Reborn into a world very different than she remembers, Jean gathers allies including Nightcrawler, Namor and the All-New Wolverine to combat a growing anti-mutant movement that threatens to tear down Xavier’s dream! Jean has a vision and a plan — but first her Red squad must infiltrate a top-secret compound to save a mysterious new mutant. Avoiding guards with high-tech weapons, protestors with burning hate and gigantic mutant-killing Sentinel robots is all in a day’s work for the X-Men! But Jean’s newest recruit will be the key to the whole team’s survival as battles break out across India! Gambit finds himself caught up in the intensifying global frenzy of mutant hate as well — but could one of Jean’s oldest friends become a deadly foe?",
+            "pages": 29
+        },
+        {
+            "id": 37,
+            "path": "marvel/comics/Spider-Man_Breakout_005_(2005)/",
+            "title": "Spider-Man – Breakout",
+            "series": "#5",
+            "discription": "The NEW AVENGERS riot hits here! The jailbreak of the century causes more havoc in the Marvel U as a flood of the most dangerous villains on the planet pour into the streets of New York City! And caught between two warring cliques of escaped convicts is everyone’s favourite web-slinger!",
+            "pages": 24
+        },
+        {
+            "id": 36,
+            "path": "marvel/comics/Spider-Man_Breakout_004_(2005)/",
+            "title": "Spider-Man – Breakout",
+            "series": "#4",
+            "discription": "The NEW AVENGERS riot hits here! The jailbreak of the century causes more havoc in the Marvel U as a flood of the most dangerous villains on the planet pour into the streets of New York City! And caught between two warring cliques of escaped convicts is everyone’s favourite web-slinger!",
+            "pages": 24
+        },
+        {
+            "id": 35,
+            "path": "marvel/comics/Spider-Man_Breakout_003_(2005)/",
+            "title": "Spider-Man – Breakout",
+            "series": "#3",
+            "discription": "The NEW AVENGERS riot hits here! The jailbreak of the century causes more havoc in the Marvel U as a flood of the most dangerous villains on the planet pour into the streets of New York City! And caught between two warring cliques of escaped convicts is everyone’s favourite web-slinger!",
+            "pages": 23
+        },
+        {
+            "id": 34,
+            "path": "marvel/comics/Spider-Man_Breakout_002_(2005)/",
+            "title": "Spider-Man – Breakout",
+            "series": "#2",
+            "discription": "The NEW AVENGERS riot hits here! The jailbreak of the century causes more havoc in the Marvel U as a flood of the most dangerous villains on the planet pour into the streets of New York City! And caught between two warring cliques of escaped convicts is everyone’s favourite web-slinger!",
+            "pages": 22
+        }
+    ],
     "Status": "Success"
 }

@@ -1,6 +1,14 @@
 {
     "data": [
         {
+            "id": 33,
+            "path": "marvel/comics/Spider-Man_Breakout_001_(2005)/",
+            "title": "Spider-Man – Breakout",
+            "series": "#1",
+            "discription": "The NEW AVENGERS riot hits here! The jailbreak of the century causes more havoc in the Marvel U as a flood of the most dangerous villains on the planet pour into the streets of New York City! And caught between two warring cliques of escaped convicts is everyone’s favourite web-slinger!",
+            "pages": 23
+        },
+        {
             "id": 32,
             "path": "marvel/comics/Invincible_Iron_Man_014_(2016)/",
             "title": "Invincible Iron Man Vol. 2",
